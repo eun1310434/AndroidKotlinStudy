@@ -15,7 +15,7 @@ class FirstFragment : Fragment() {
 
     private var _binding: FragmentFirstBinding? = null
 
-    //testing
+    //testing adfasdfa
     // This property is only valid between onCreateView and
     // onDestroyView.
     private val binding get() = _binding!!
